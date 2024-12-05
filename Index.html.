@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dango Blog</title>
+</head>
+<body>
+    <header>
+        <h1>Dango Blog</h1>
+        <p>Sharing my thoughts, stories, and adventures.</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Welcome to Dango Blog</h2>
+            <p>Hello! I’m excited to share my personal thoughts, experiences, and stories here. Stay tuned for updates and let’s connect!</p>
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi, I’m [Your Name]! I created this blog to document my journey through life, share what I’ve learned, and connect with like-minded people. When I’m not blogging, I enjoy [your hobbies].</p>
+        </section>
+        <section id="blog">
+            <h2>Latest Posts</h2>
+            <article>
+                <h3>My First Blog Post</h3>
+                <p>Posted on December 5, 2024</p>
+                <p>This is the start of something amazing! I’m thrilled to begin this journey and share it with you. Stay tuned for more.</p>
+                <a href="#">Read more...</a>
+            </article>
+            <article>
+                <h3>Another Great Day</h3>
+                <p>Posted on December 4, 2024</p>
+                <p>Today was filled with exciting experiences. Let me tell you about it in my next post. Don’t miss it!</p>
+                <a href="#">Read more...</a>
+            </article>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Feel free to reach out if you’d like to connect! Email me at <a href="mailto:dango@example.com">dango@example.com</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Dango Blog. All rights reserved.</p>
+    </footer>
+</body>
+</html>
